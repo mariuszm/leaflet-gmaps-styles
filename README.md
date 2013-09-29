@@ -1,2 +1,2 @@
-leaflet-google-styles
+leaflet-gmaps-styles
 =====================
